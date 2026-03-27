@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "ai-agent-marketplace",
+    "title": "AI Agent Marketplace",
+    "description": "Led the development of an enterprise AI Agent Marketplace, launching 300+ ready-to-deploy agents across HR, IT, and Finance domains. Built on top of Moveworks' agentic AI platform, enabling enterprises to automate complex workflows with plug-and-play AI agents.",
+    "tags": ["Agentic AI", "Enterprise", "Product Strategy", "Marketplace"],
+    "liveUrl": "https://www.moveworks.com",
+    "featured": true
+  },
+  {
+    "slug": "self-service-platform",
+    "title": "Moveworks Self-Service Platform",
+    "description": "Ideated and built a 0→1 Self-Service platform enabling enterprise admins to configure and manage their AI assistant without engineering support. Achieved 40% customer admin adoption in year one and reduced go-live cycle from 2 months to 25 days.",
+    "tags": ["0→1", "Self-Service", "Admin Tools", "PLG"],
+    "liveUrl": "https://www.moveworks.com",
+    "featured": true
+  },
+  {
+    "slug": "product-insights",
+    "title": "Product Insights — Sprinklr",
+    "description": "Launched a new SKU within Sprinklr's Social Listening module that provided AI-powered product insights from social conversations. Contributed $15M in new ARR within 2 years of launch.",
+    "tags": ["AI/ML", "Social Listening", "SaaS", "Analytics"],
+    "featured": false
+  },
+  {
+    "slug": "modern-research-lite",
+    "title": "Modern Research Lite (PLG)",
+    "description": "Designed and launched the self-serve Lite version of Sprinklr's Modern Research on product-led-growth principles. Onboarded 4200+ users (3000+ unique brands) across 50+ countries.",
+    "tags": ["PLG", "Self-Serve", "Growth", "B2B SaaS"],
+    "featured": false
+  },
+  {
+    "slug": "ola-share-growth",
+    "title": "Ola Share Growth Engine",
+    "description": "Built data-driven growth strategies for Ola Share and Ola Micro categories. Designed incentive schemes for 60k+ cab fleet and grew Ola Share by 100% and Ola Micro by 60% in one year.",
+    "tags": ["Growth", "Analytics", "Ride-sharing", "Incentive Design"],
+    "featured": false
+  },
+  {
+    "slug": "personal-website",
+    "title": "adityashankar.in",
+    "description": "This portfolio website — built with Next.js, Tailwind CSS, and Framer Motion. Features a markdown-based blog, project showcase, and CRED-inspired dark design aesthetic.",
+    "tags": ["Next.js", "Tailwind CSS", "Framer Motion", "Portfolio"],
+    "githubUrl": "https://github.com/adityashankar2/adityashankar.in",
+    "featured": false
+  }
+]
